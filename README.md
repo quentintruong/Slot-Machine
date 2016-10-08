@@ -1,5 +1,5 @@
 # Slot-Machine
-Slot machine built with Processing
+Slot machine built with Processing in 2012ish.
 
 https://processing.org/
 
