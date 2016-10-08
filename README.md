@@ -5,8 +5,10 @@ https://processing.org/
 
 How to play:
 
-1) Pull down the lever on the right.
+1) Run the executable.
 
-2) Click all three buttons.
+2) Pull down the lever on the right.
 
-3) Repeat.
+3) Click all three buttons.
+
+4) Repeat till your heart's content!
